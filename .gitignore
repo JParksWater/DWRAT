@@ -1,0 +1,9 @@
+.spyproject
+*.MPS
+*.SOL
+input_archives/*.*
+output_archives/*.*
+script_archives/*.*
+
+
+
